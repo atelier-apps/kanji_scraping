@@ -8,8 +8,21 @@ base_url="https://ja.wiktionary.org/wiki/"
 text=""
 n=0 # 書き込みを始めたい行数(始めたい行より、-1行書く)
 check_n=0 #nと同じ値になる
-MAX=250 # 書き込みが終わる行数
+MAX=1 # 書き込みが終わる行数
 
+print("n=" + str(n) + "," + "check_n=" + str(check_n) + "," + "MAX=" + str(MAX))
+print("Do you want to start it?")
+answer = input("Enter Y or N: ")
+if answer == "Y":
+    print("Let's go!")
+elif answer == "N":
+    print("Please fix values")
+    exit()
+else:
+    print("Please enter Y or N.")
+    exit()
+
+print("=" * 30)
 with open("./jp_kanji_list.txt", mode='r', encoding="utf-8_sig") as f:
     #lines=f.readlines()
     for line in itertools.islice(f, n, MAX):
