@@ -8,7 +8,7 @@ base_url="https://ja.wiktionary.org/wiki/"
 text=""
 n=0 # 書き込みを始めたい行数(始めたい行より、-1行書く)
 check_n=0 #nと同じ値になる
-MAX=1 # 書き込みが終わる行数
+MAX=2569 # 書き込みが終わる行数
 
 print("n=" + str(n) + "," + "check_n=" + str(check_n) + "," + "MAX=" + str(MAX))
 print("Do you want to start it?")
@@ -33,6 +33,7 @@ with open("./jp_kanji_list.txt", mode='r', encoding="utf-8_sig") as f:
             html = urllib.request.urlopen(url=base_url+urllib.parse.quote(character))
             soup = BeautifulSoup(html, "html.parser")
         except:
+            text+="WIKI DOESN'T HAVE THIS PAGE\n"
             print(str(check_n)+": "+character+": WIKI DOESN'T HAVE THIS PAGE")
             continue
         #カナを検索
@@ -47,6 +48,7 @@ with open("./jp_kanji_list.txt", mode='r', encoding="utf-8_sig") as f:
             text+=kanon_tag["title"]+"\n"
             print(str(check_n)+": "+character+": "+kanon_tag["title"])
         except:
+            text+="SKIP NONETYPE ERROR\n"
             print(str(check_n)+": "+character+": Skip Nonetype ERROR")
             continue
 
