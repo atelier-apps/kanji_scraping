@@ -6,9 +6,9 @@ from bs4 import BeautifulSoup
 START=0
 END=20
 n=0
-base_url="https://ja.wiktionary.org/wiki/"
+base_url="https://zh.wiktionary.org/wiki/"
 text=""
-with open("./kanji_list.txt", mode='r') as f:
+with open("./traditional_hanzi_list_full.txt", mode='r') as f:
     lines=f.readlines()
     lines=lines[START:END]
     for line in lines:
@@ -20,13 +20,13 @@ with open("./kanji_list.txt", mode='r') as f:
         kanon_label_tag = soup.find("a", {"title":"漢音"})
 
         if kanon_label_tag==None:
-            text+="KANON NOT FOUND\n"
-            print(character+": KANON NOT FOUND")
+            text+="PINYIN NOT FOUND\n"
+            print(character+": PINYIN NOT FOUND")
             continue
         kanon_tag=kanon_label_tag.parent.find("a",{"title":re.compile("^[ァ-ヶ]+$")})
         text+=character+"\t"+kanon_tag["title"]+"\n"
 
 
 
-with open("./kanji_kana_list.txt", mode='w') as f:
+with open("./pinyin_list.txt", mode='w') as f:
     f.write(text)
