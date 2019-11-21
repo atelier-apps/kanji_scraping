@@ -22,8 +22,6 @@ class Info():
         return self.hantaiji
     def get_output(self,soup):
         pinyins=self._get_pinyins(soup)
-        if pinyins[0] == "ERROR" or pinyins[0] == "NOT FOUND":
-            return NO_PINYINS
         output=[]
         for pinyin in pinyins:
             output.append(self.line+pinyin+"\t"+str(len(pinyins))+"\n")
@@ -77,7 +75,7 @@ with open("./kantaiji_list.txt", mode='r', encoding="utf-8_sig") as f:
         #     break
         info=Info(line)
         output_line=get_result(info.get_kantaiji())
-        if output_line == NO_PINYINS:
+        if "ERROR" in output_line or "NOT FOUND" in output_line:
             output_line=get_result(info.get_hantaiji())
         print(str(n))
         print(output_line)

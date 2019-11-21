@@ -185,7 +185,8 @@
 少	少	ショウ			少	shǎo	2
 日	日	KANON NOT FOUND			日	rì	1
 中	中	チュウ			中	zhōng	1
-NO PINYINS贝	貝	ハイ			貝	bèi	1
+冈	岡	コウ			岡	ERROR	1
+贝	貝	ハイ			貝	bèi	1
 内	內	ダイ			内	nèi	3
 内	內	ダイ			内	nà	3
 内	內	ダイ			内	ruì	3
@@ -202,7 +203,8 @@ NO PINYINS贝	貝	ハイ			貝	bèi	1
 升	升	ショウ			升	shēng	1
 长	長	チョウ			長	cháng	2
 长	長	チョウ			長	zhǎng	2
-NO PINYINS什	什	シュウ			什	shí	2
+仁	仁	ジン			仁	ERROR	1
+什	什	シュウ			什	shí	2
 什	什	シュウ			什	shén	2
 片	片	ヘン			片	piàn	3
 片	片	ヘン			片	piān	3
@@ -215,8 +217,7 @@ NO PINYINS什	什	シュウ			什	shí	2
 仇	仇	キュウ			仇	qiú	3
 仇	仇	キュウ			仇	chóu	3
 仇	仇	キュウ			仇	jū	3
-币	幣	SKIP NONETYPE ERROR			幣	yěn	2
-币	幣	SKIP NONETYPE ERROR			幣	bì	2
+币	幣	SKIP NONETYPE ERROR			幣	bì	1
 仍	仍	ジョウ			仍	réng	1
 仅	僅	キン			僅	fù	4
 仅	僅	キン			僅	nú	4
@@ -378,7 +379,8 @@ NO PINYINS什	什	シュウ			什	shí	2
 目	目	KANON NOT FOUND			目	mù	1
 叶	葉	ヨウ			葉	xié	2
 叶	葉	ヨウ			葉	yè	2
-NO PINYINS申	申	シン			申	shēn	1
+甲	甲	コウ			甲	ERROR	1
+申	申	シン			申	shēn	1
 叮	叮	テイ			叮	dīng	1
 电	電	テン			電	diàn	1
 号	號	コウ			号	háo	3
@@ -474,7 +476,8 @@ NO PINYINS申	申	シン			申	shēn	1
 汁	汁	シュウ			汁	xié	3
 汁	汁	シュウ			汁	shí	3
 汇	匯	カイ			匯	huì	1
-NO PINYINS头	頭	トウ			頭	tóu	1
+汇	彙	イ			彙	ERROR	1
+头	頭	トウ			頭	tóu	1
 汉	漢	カン			漢	hàn	1
 宁	寧	ネイ			寧	zhù	3
 宁	寧	ネイ			寧	níng	3
@@ -575,7 +578,8 @@ NO PINYINS头	頭	トウ			頭	tóu	1
 芒	芒	ボウ			芒	huăng	3
 亚	亞	ア			亜	yà	1
 芝	芝	シ			芝	zhī	1
-NO PINYINS朴	朴	ハク			朴	pò	5
+朽	朽	キュウ			朽	ERROR	1
+朴	朴	ハク			朴	pò	5
 朴	朴	ハク			朴	pǔ	5
 朴	朴	ハク			朴	pū	5
 朴	朴	ハク			朴	pō	5
@@ -666,7 +670,8 @@ NO PINYINS朴	朴	ハク			朴	pò	5
 同	同	トウ	同じ		同	tòng	2
 同	衕	WIKI DOESN'T HAVE THIS PAGE			衕	tóng	2
 同	衕	WIKI DOESN'T HAVE THIS PAGE			衕	tòng	2
-NO PINYINS吃	吃	キツ			吃	chī	2
+吊	吊	チョウ			吊	NOT FOUND	1
+吃	吃	キツ			吃	chī	2
 吃	吃	キツ			吃	qī	2
 因	因	イン			因	yīn	1
 吸	吸	キュウ			吸	xī	1
@@ -733,7 +738,11 @@ NO PINYINS吃	吃	キツ			吃	chī	2
 仿	仿	ホウ			仿	páng	2
 伙	伙	KANON NOT FOUND			伙	huǒ	2
 伙	伙	KANON NOT FOUND			伙	huo	2
-伪	偽	SKIP NONETYPE ERROR			偽	wěi	1
+伪	偽	SKIP NONETYPE ERROR			偽	wěi	5
+伪	偽	SKIP NONETYPE ERROR			偽	wèi	5
+伪	偽	SKIP NONETYPE ERROR			偽	wéi	5
+伪	偽	SKIP NONETYPE ERROR			偽	é	5
+伪	偽	SKIP NONETYPE ERROR			偽	guì	5
 自	自	シ			自	zì	1
 血	血	KANON NOT FOUND			血	xuè	2
 血	血	KANON NOT FOUND			血	xiě	2
@@ -1006,7 +1015,8 @@ NO PINYINS吃	吃	キツ			吃	chī	2
 芽	芽	ガ			芽	yá	1
 花	花	カ			花	huā	1
 芹	芹	キン			芹	qín	1
-NO PINYINS苍	蒼	ソウ			蒼	cāng	1
+芬	芬	フン			芬	NOT FOUND	1
+苍	蒼	ソウ			蒼	cāng	1
 芳	芳	ホウ			芳	fāng	1
 严	嚴	ゲン			厳	yán	1
 芦	蘆	ロ			蘆	hù	2
@@ -1049,8 +1059,12 @@ NO PINYINS苍	蒼	ソウ			蒼	cāng	1
 还	還	カン			還	huán	3
 还	還	カン			還	hái	3
 歼	殲	セン			殲	jiān	1
-来	來	SKIP NONETYPE ERROR			来	lái	1
-连	連	SKIP NONETYPE ERROR			連	lián	1
+来	來	SKIP NONETYPE ERROR			来	lái	2
+来	來	SKIP NONETYPE ERROR			来	lài	2
+连	連	SKIP NONETYPE ERROR			連	lián	4
+连	連	SKIP NONETYPE ERROR			連	liăn	4
+连	連	SKIP NONETYPE ERROR			連	liàn	4
+连	連	SKIP NONETYPE ERROR			連	làn	4
 步	步	ホ			歩	bù	1
 坚	堅	ケン			堅	jiān	1
 旱	旱	カン			旱	hàn	1
@@ -1260,7 +1274,8 @@ NO PINYINS苍	蒼	ソウ			蒼	cāng	1
 沟	溝	SKIP NONETYPE ERROR			溝	gōu	3
 沟	溝	SKIP NONETYPE ERROR			溝	gǎng	3
 沟	溝	SKIP NONETYPE ERROR			溝	kòu	3
-NO PINYINS沈	沈	シン			沈	chén	3
+没	沒	ボツ			没	NOT FOUND	1
+沈	沈	シン			沈	chén	3
 沈	沈	シン			沈	shěn	3
 沈	沈	シン			沈	tán	3
 沈	瀋	シン			瀋	chén	3
@@ -1473,7 +1488,8 @@ NO PINYINS沈	沈	シン			沈	chén	3
 或	或	コク			或	yù	2
 或	或	コク			或	huò	2
 画	畫	カイ			画	huà	1
-NO PINYINS事	事	シ			事	shì	1
+卧	卧	ガ			卧	NOT FOUND	1
+事	事	シ			事	shì	1
 刺	刺	シ			刺	cì	3
 刺	刺	シ			刺	qì	3
 刺	刺	シ			刺	cī	3
@@ -1516,7 +1532,8 @@ NO PINYINS事	事	シ			事	shì	1
 虎	虎	コ			虎	hǔ	1
 虏	虜	ロ			虜	lǔ	1
 肾	腎	シン			腎	shèn	1
-贤	賢	SKIP NONETYPE ERROR			賢	xián	1
+贤	賢	SKIP NONETYPE ERROR			賢	xián	2
+贤	賢	SKIP NONETYPE ERROR			賢	xiàn	2
 尚	尚	ショウ			尚	shàng	2
 尚	尚	ショウ			尚	cháng	2
 旺	旺	オウ			旺	wàng	1
@@ -1532,7 +1549,8 @@ NO PINYINS事	事	シ			事	shì	1
 昆	崑	コン			崑	kūn	3
 昆	崑	コン			崑	hún	3
 昆	崑	コン			崑	kùn	3
-NO PINYINS昌	昌	SKIP NONETYPE ERROR			昌	chāng	2
+国	国	コク			国	NOT FOUND	1
+昌	昌	SKIP NONETYPE ERROR			昌	chāng	2
 昌	昌	SKIP NONETYPE ERROR			昌	chàng	2
 畅	暢	チョウ			暢	chàng	1
 明	明	メイ			明	míng	1
@@ -1637,7 +1655,7 @@ NO PINYINS昌	昌	SKIP NONETYPE ERROR			昌	chāng	2
 爸	爸	WIKI DOESN'T HAVE THIS PAGE			爸	bà	1
 采	采	サイ			采	cǎi	2
 采	采	サイ			采	cài	2
-采	埰	KANON NOT FOUND			埰	cǎi	2
+采	埰	KANON NOT FOUND			埰	căi	2
 采	埰	KANON NOT FOUND			埰	cài	2
 采	採	サイ			採	cǎi	2
 采	採	サイ			採	cài	2
@@ -1793,7 +1811,8 @@ NO PINYINS昌	昌	SKIP NONETYPE ERROR			昌	chāng	2
 房	房	ホウ			房	fáng	2
 房	房	ホウ			房	páng	2
 诚	誠	セイ			誠	chéng	1
-NO PINYINS衫	衫	サン			衫	shān	1
+衬	襯	シン			襯	ERROR	1
+衫	衫	サン			衫	shān	1
 视	視	シ			視	shì	2
 视	視	シ			視	shì	2
 话	話	カ			話	huà	1
@@ -1990,7 +2009,8 @@ NO PINYINS衫	衫	サン			衫	shān	1
 殃	殃	ヨウ			殃	yāng	1
 轻	輕	ケイ			軽	qīng	1
 鸦	鴉	ア			鴉	yā	1
-NO PINYINS背	背	ハイ			背	bèi	2
+皆	皆	カイ			皆	ERROR	1
+背	背	ハイ			背	bèi	2
 背	背	ハイ			背	bēi	2
 战	戰	セン			戦	zhàn	1
 点	點	テン			点	diǎn	1
@@ -2256,7 +2276,8 @@ NO PINYINS背	背	ハイ			背	bèi	2
 剃	剃	テイ			剃	tì	1
 洁	潔	ケツ			潔	jí	2
 洁	潔	ケツ			潔	jié	2
-NO PINYINS洒	灑	サ			灑	xǐ	6
+洪	洪	コウ			洪	NOT FOUND	1
+洒	灑	サ			灑	xǐ	6
 洒	灑	サ			灑	să	6
 洒	灑	サ			灑	xiăn	6
 洒	灑	サ			灑	sěn	6
@@ -2291,12 +2312,14 @@ NO PINYINS洒	灑	サ			灑	xǐ	6
 恒	恆	コウ			恒	héng	1
 恢	恢	カイ			恢	huī	1
 恰	恰	コウ			恰	qià	1
-NO PINYINS恨	恨	コン			恨	hèn	1
+恼	惱	ドウ			悩	ERROR	1
+恨	恨	コン			恨	hèn	1
 举	舉	キョ			挙	jǔ	2
 举	舉	キョ			挙	jǔ	2
 觉	覺	カク			覚	jué	2
 觉	覺	カク			覚	jiào	2
-NO PINYINS室	室	シツ			室	shì	1
+宣	宣	セン			宣	ERROR	1
+室	室	シツ			室	shì	1
 宫	宮	キュウ			宮	gōng	1
 宪	憲	ケン			憲	xiàn	2
 宪	憲	ケン			憲	xiǎn	2
@@ -2305,7 +2328,8 @@ NO PINYINS室	室	シツ			室	shì	1
 穿	穿	セン			穿	chuàn	3
 穿	穿	セン			穿	yuān	3
 窃	竊	セツ			窃	qiè	1
-NO PINYINS冠	冠	カン			冠	guān	2
+客	客	カク			客	ERROR	1
+冠	冠	カン			冠	guān	2
 冠	冠	カン			冠	guàn	2
 语	語	ギョ			語	yǔ	2
 语	語	ギョ			語	yù	2
@@ -2355,7 +2379,8 @@ NO PINYINS冠	冠	カン			冠	guān	2
 勇	勇	ヨウ			勇	yǒng	1
 怠	怠	タイ			怠	dài	2
 怠	怠	タイ			怠	yí	2
-NO PINYINS垒	壘	ルイ			壘	lěi	1
+柔	柔	ジュウ			柔	ERROR	1
+垒	壘	ルイ			壘	lěi	1
 绑	綁	WIKI DOESN'T HAVE THIS PAGE			綁	bǎng	1
 绒	絨	ジュウ			絨	róng	1
 结	結	ケツ			結	jiē	2
@@ -2373,7 +2398,8 @@ NO PINYINS垒	壘	ルイ			壘	lěi	1
 骆	駱	ラク			駱	luò	1
 绝	絕	セツ			絶	jué	1
 绞	絞	コウ			絞	jiǎo	1
-NO PINYINS耕	耕	コウ			耕	gēng	1
+统	統	トウ			統	ERROR	1
+耕	耕	コウ			耕	gēng	1
 耗	耗	コウ			耗	hào	3
 耗	耗	コウ			耗	máo	3
 耗	耗	コウ			耗	mào	3
@@ -2386,7 +2412,8 @@ NO PINYINS耕	耕	コウ			耕	gēng	1
 蚕	蠶	サン			蚕	tiăn	2
 顽	頑	ガン			頑	wán	2
 顽	頑	ガン			頑	kūn	2
-NO PINYINS匪	匪	ヒ			匪	fěi	3
+盏	盞	サン			盞	ERROR	1
+匪	匪	ヒ			匪	fěi	3
 匪	匪	ヒ			匪	fēi	3
 匪	匪	ヒ			匪	fēn	3
 捞	撈	ロウ			撈	lāo	2
@@ -2550,7 +2577,8 @@ NO PINYINS匪	匪	ヒ			匪	fěi	3
 唉	唉	SKIP NONETYPE ERROR			唉	ài	3
 罢	罷	ハイ			罷	pí	2
 罢	罷	ハイ			罷	bà	2
-NO PINYINS圆	圓	エン			円	yuán	1
+峰	峰	ホウ			峰	NOT FOUND	1
+圆	圓	エン			円	yuán	1
 贼	賊	ソク			賊	zéi	1
 贿	賄	カイ			賄	huì	1
 钱	錢	セン			銭	qián	1
@@ -2642,14 +2670,16 @@ NO PINYINS圆	圓	エン			円	yuán	1
 脆	脆	セイ			脆	cuì	1
 脂	脂	シ			脂	zhī	2
 脂	脂	シ			脂	zhǐ	2
-NO PINYINS胳	胳	WIKI DOESN'T HAVE THIS PAGE			胳	gē	2
+胸	胸	キョウ			胸	ERROR	1
+胳	胳	WIKI DOESN'T HAVE THIS PAGE			胳	gē	2
 胳	胳	WIKI DOESN'T HAVE THIS PAGE			胳	gé	2
 脏	臟	ソウ			臓	zāng	2
 脏	臟	ソウ			臓	zàng	2
 胶	膠	コウ			膠	xiáo	2
 胶	膠	コウ			膠	jiāo	2
 脑	腦	ドウ			脳	nǎo	1
-NO PINYINS狼	狼	ロウ			狼	láng	1
+狸	狸	リ			狸	ERROR	1
+狼	狼	ロウ			狼	láng	1
 逢	逢	ホウ			逢	féng	3
 逢	逢	ホウ			逢	péng	3
 逢	逢	ホウ			逢	páng	3
@@ -2712,7 +2742,8 @@ NO PINYINS狼	狼	ロウ			狼	láng	1
 烤	烤	WIKI DOESN'T HAVE THIS PAGE			烤	kǎo	1
 烘	烘	WIKI DOESN'T HAVE THIS PAGE			烘	hōng	1
 烦	煩	ハン			煩	fán	1
-烧	燒	SKIP NONETYPE ERROR			焼	shāo	1
+烧	燒	SKIP NONETYPE ERROR			焼	shāo	2
+烧	燒	SKIP NONETYPE ERROR			焼	shào	2
 烛	燭	ショク			燭	chóng	2
 烛	燭	ショク			燭	zhú	2
 烟	煙	エン			煙	yān	2
@@ -2758,7 +2789,8 @@ NO PINYINS狼	狼	ロウ			狼	láng	1
 宵	宵	ショウ			宵	xiāo	1
 宴	宴	エン			宴	yàn	1
 宾	賓	ヒン			賓	bīn	1
-NO PINYINS容	容	ヨウ			容	róng	2
+窄	窄	サク			窄	ERROR	1
+容	容	ヨウ			容	róng	2
 容	容	ヨウ			容	yŏng	2
 宰	宰	サイ			宰	zǎi	1
 案	案	アン			案	àn	1
@@ -2772,7 +2804,8 @@ NO PINYINS容	容	ヨウ			容	róng	2
 袜	襪	バツ			襪	mò	2
 袜	襪	バツ			襪	wà	2
 袖	袖	シュウ			袖	xiù	1
-NO PINYINS被	被	ヒ			被	bèi	4
+袍	袍	ホウ			袍	ERROR	1
+被	被	ヒ			被	bèi	4
 被	被	ヒ			被	bì	4
 被	被	ヒ			被	pī	4
 被	被	ヒ			被	pì	4
@@ -2889,7 +2922,8 @@ NO PINYINS被	被	ヒ			被	bèi	4
 梳	梳	ソ			梳	shū	1
 梯	梯	テイ			梯	tī	2
 梯	梯	テイ			梯	tí	2
-NO PINYINS救	救	キュウ			救	jiù	2
+桶	桶	トウ			桶	ERROR	1
+救	救	キュウ			救	jiù	2
 救	救	キュウ			救	jiū	2
 副	副	フウ			副	pì	2
 副	副	フウ			副	fù	2
@@ -2966,7 +3000,8 @@ NO PINYINS救	救	キュウ			救	jiù	2
 移	移	イ			移	yí­	3
 移	移	イ			移	chǐ	3
 移	移	イ			移	yì	3
-NO PINYINS笼	籠	ロウ			籠	lóng	2
+笨	笨	ホン			笨	ERROR	1
+笼	籠	ロウ			籠	lóng	2
 笼	籠	ロウ			籠	lǒng	2
 笛	笛	テキ			笛	dí	1
 符	符	フ			符	fú	1
@@ -3122,7 +3157,8 @@ NO PINYINS笼	籠	ロウ			籠	lóng	2
 逮	逮	タイ			逮	dài	3
 逮	逮	タイ			逮	dì	3
 逮	逮	タイ			逮	dǎi	3
-NO PINYINS屠	屠	ト			屠	tú	1
+敢	敢	カン			敢	ERROR	1
+屠	屠	ト			屠	tú	1
 弹	彈	タン			弾	dàn	2
 弹	彈	タン			弾	tán	2
 随	隨	スイ			随	suí	1
@@ -3143,7 +3179,8 @@ NO PINYINS屠	屠	ト			屠	tú	1
 骑	騎	キ			騎	qí	2
 绳	繩	ショウ			縄	shéng	1
 维	維	イ			維	wéi	1
-NO PINYINS绸	綢	チュウ			綢	chóu	1
+绵	綿	ベン			綿	NOT FOUND	1
+绸	綢	チュウ			綢	chóu	1
 绿	綠	リョク			緑	lǜ	1
 琴	琴	キン			琴	qín	1
 斑	斑	ハン			斑	bān	1
@@ -3416,7 +3453,8 @@ NO PINYINS绸	綢	チュウ			綢	chóu	1
 腔	腔	コウ			腔	kòng	2
 鲁	魯	ロ			魯	lǔ	2
 鲁	魯	ロ			魯	lǔ	2
-NO PINYINS猴	猴	コウ			猴	hóu	1
+猾	猾	カツ			猾	NOT FOUND	1
+猴	猴	コウ			猴	hóu	1
 然	然	ゼン			然	rán	1
 馋	饞	サン			饞	chán	1
 装	裝	ソウ			装	zhuāng	1
@@ -3502,7 +3540,8 @@ NO PINYINS猴	猴	コウ			猴	hóu	1
 絮	絮	ショ			絮	chù	4
 絮	絮	ショ			絮	nǜ	4
 絮	絮	ショ			絮	ní	4
-NO PINYINS登	登	トウ			登	dēng	2
+嫂	嫂	ソウ			嫂	ERROR	1
+登	登	トウ			登	dēng	2
 登	登	トウ			登	dé	2
 缎	緞	タン			緞	duàn	1
 缓	緩	カン			緩	huǎn	1
@@ -3653,7 +3692,8 @@ NO PINYINS登	登	トウ			登	dēng	2
 催	催	サイ			催	cuī	1
 傻	傻	SKIP NONETYPE ERROR			傻	shǎ	1
 像	像	ショウ			像	xiàng	1
-NO PINYINS微	微	ビ			微	wēi	1
+躲	躲	KANON NOT FOUND			躲	NOT FOUND	1
+微	微	ビ			微	wēi	1
 愈	愈	ユ			愈	yù	1
 遥	遙	ヨウ			遙	yáo	1
 腰	腰	ヨウ			腰	yāo	1
@@ -3727,7 +3767,8 @@ NO PINYINS微	微	ビ			微	wēi	1
 静	靜	セイ			静	jìng	1
 碧	碧	ヘキ			碧	bì	1
 璃	璃	リ			璃	lí	1
-NO PINYINS撇	撇	WIKI DOESN'T HAVE THIS PAGE			撇	piē	3
+墙	墻	ショウ			墻	NOT FOUND	1
+撇	撇	WIKI DOESN'T HAVE THIS PAGE			撇	piē	3
 撇	撇	WIKI DOESN'T HAVE THIS PAGE			撇	biē	3
 撇	撇	WIKI DOESN'T HAVE THIS PAGE			撇	piě	3
 嘉	嘉	カ			嘉	jiā	1
@@ -3799,7 +3840,8 @@ NO PINYINS撇	撇	WIKI DOESN'T HAVE THIS PAGE			撇	piē	3
 魄	魄	ハク			魄	pò	3
 魄	魄	ハク			魄	bó	3
 魄	魄	ハク			魄	tuò	3
-NO PINYINS膜	膜	バク			膜	mó	1
+貌	貌	ボウ			貌	ERROR	1
+膜	膜	バク			膜	mó	1
 膊	膊	ハク			膊	pò	3
 膊	膊	ハク			膊	bó	3
 膊	膊	ハク			膊	liè	3
@@ -3904,7 +3946,8 @@ NO PINYINS膜	膜	バク			膜	mó	1
 醉	醉	スイ			酔	zuì	1
 震	震	シン			震	zhèn	2
 震	震	シン			震	shēn	2
-NO PINYINS瞒	瞞	バン			瞞	mán	1
+霉	霉	バイ			霉	NOT FOUND	1
+瞒	瞞	バン			瞞	mán	1
 题	題	テイ			題	tí	2
 题	題	テイ			題	dì	2
 暴	暴	ホウ			暴	pù	3
@@ -4039,7 +4082,8 @@ NO PINYINS瞒	瞞	バン			瞞	mán	1
 鞭	鞭	ヘン			鞭	biān	1
 覆	覆	フウ			覆	fù	1
 蹦	蹦	KANON NOT FOUND			蹦	bèng	1
-NO PINYINS翻	翻	ハン			翻	fān	1
+镰	鐮	WIKI DOESN'T HAVE THIS PAGE			鐮	ERROR	1
+翻	翻	ハン			翻	fān	1
 鹰	鷹	ヨウ			鷹	yīng	1
 警	警	ケイ			警	jǐng	1
 攀	攀	ハン			攀	pān	1
